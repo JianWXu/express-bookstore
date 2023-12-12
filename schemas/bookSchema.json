@@ -13,7 +13,6 @@
         "type": "object",
         "title": "The Book Schema",
         "required": [
-          "isbn",
           "amazon_url",
           "author",
           "language",
